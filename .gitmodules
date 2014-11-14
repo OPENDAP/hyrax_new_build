@@ -1,6 +1,8 @@
 [submodule "libdap"]
 	path = libdap
 	url = https://github.com/opendap/libdap
+	branch = new_build
 [submodule "bes"]
 	path = bes
 	url = https://github.com/opendap/bes
+	branch = new_build
