@@ -1,0 +1,6 @@
+[submodule "libdap"]
+	path = libdap
+	url = https://github.com/opendap/libdap
+[submodule "bes"]
+	path = bes
+	url = https://github.com/opendap/bes
