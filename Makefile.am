@@ -23,7 +23,7 @@ if BUILD_DEVELOPER
 AM_CXXFLAGS += $(CXXFLAGS_DEBUG)
 endif
 
-SUBDIRS = libdap
+SUBDIRS = libdap bes
 DIST_SUBDIRS = 
 
 aclocaldir=$(datadir)/aclocal
